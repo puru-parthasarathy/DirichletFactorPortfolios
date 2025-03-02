@@ -1,2 +1,2 @@
 # DirichletFactorPortfolios
-Online facto-based universal portfolios
+Online factor-based universal portfolios
