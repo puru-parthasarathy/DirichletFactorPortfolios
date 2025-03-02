@@ -1,0 +1,102 @@
+AAPL       Apple Inc. Common Stock      2,105,099,822,800       $121.42 +1.29   +1.07%
+ADBE       Adobe Inc. Common Stock      211,025,321,000         $440.83 +1.77   +0.4%
+ADI        Analog Devices, Inc. Common Stock                    54,996,802,311  $148.88 +4.36   +3.02%
+ADP        Automatic Data Processing, Inc. Common Stock         76,284,623,617  $178.26 +7.25   +4.24%
+ADSK       Autodesk, Inc. Common Stock     58,796,227,468       $267.39         +1.95   +0.73%
+AEP        American Electric Power Company, Inc. Common Stock   39,182,070,907  $78.90  +1.65   +2.14%
+ALGN       Align Technology, Inc. Common Stock   42,451,540,581 $536.46         +16.01  +3.08%
+ALXN       Alexion Pharmaceuticals, Inc. Common Stock           32,999,178,796  $150.10 +1.64   +1.1%
+AMAT       Applied Materials, Inc. Common Stock 104,108,621,390 $113.45         +5.21   +4.81%
+AMD        Advanced Micro Devices, Inc. Common Stock            95,113,221,883  $78.52  +0.77   +0.99%
+AMGN       Amgen Inc. Common Stock 131,529,192,401              $227.73         +5.82   +2.62%
+AMZN       Amazon.com, Inc. Common Stock                        1,510,925,868,782       $3000.46        +22.89  +0.77%
+ANSS       ANSYS, Inc. Common Stock                             26,722,145,865          $308.03         +1.87   +0.61%
+ASML       ASML Holding N.V. New York Registry Shares           219,519,556,479         $527.04         +16.54  +3.24%
+ATVI       Activision Blizzard, Inc. Common Stock               71,726,722,080          $92.58          +1.04   +1.14%
+AVGO       Broadcom Inc. Common Stock       183,759,007,839     $450.14                 +6.55           +1.48%
+BIDU       Baidu, Inc. ADS      1,115,828,825                   $261.72                 +1.13           +0.43%
+BIIB       Biogen Inc. Common Stock                             41,238,805,739          $270.71         +7.14   +2.71%
+BKNG       Booking Holdings Inc. Common Stock                   94,502,959,552          $2307.10        +87.75  +3.95%
+CDNS       Cadence Design Systems, Inc. Common Stock            35,343,216,060          $126.69         -2.12   -1.65%
+CDW        CDW Corporation Common Stock 21,780,304,356          $154.48                 +3.04           +2.01%
+CERN       Cerner Corporation Common Stock                      21,560,056,411          $70.39          +2.17   +3.18%
+CHKP       Check Point Software Technologies Ltd. Ordinary Shares                       16,017,860,511  $114.25 +3.61   +3.26%
+CHTR       Charter Communications, Inc. Class A Common Stock New                        127,863,233,423 $624.03 +16.39  +2.7%
+CMCSA      Comcast Corporation Class A Common Stock    252,348,348,515                  $55.09          +1.16   +2.15%
+COST       Costco Wholesale Corporation Common Stock   140,558,553,266                  $317.32         -1.72   -0.54%
+CPRT       Copart, Inc. (DE) Common Stock      25,141,761,906                           $106.39         +2.28   +2.19%
+CSCO       Cisco Systems, Inc. Common Stock (DE)                                        195,257,581,549 $46.25  +1.69   +3.79%
+CSX        CSX Corporation Common Stock     69,868,338,465                              $91.63          +3.37   +3.82%
+CTAS       Cintas Corporation Common Stock  35,641,917,944                              $339.35         +12.62  +3.86%
+CTSH       Cognizant Technology Solutions Corporation Class A Common Stock              39,111,576,957  $73.71  +1.31   +1.81%
+DLTR       Dollar Tree Inc. Common Stock  24,478,799,180    $104.08  +2.27              +2.23%
+DOCU       DocuSign, Inc. Common Stock    39,075,700,917    $204.31  -6.31              -3%
+DXCM       DexCom, Inc. Common Stock      35,017,216,095    $364.09  +7.82              +2.19%
+EA         Electronic Arts Inc. Common Stock                38,139,211,180              $132.60 +1.31   +1%
+EBAY       eBay Inc. Common Stock      36,580,764,434       $53.76                      +0.42   +0.79%
+EXC        Exelon Corporation Common Stock                  38,702,030,352              $39.64  +0.2525 +0.64%
+FAST       Fastenal Company Common Stock                    25,948,737,178              $45.18  +1.01   +2.29%
+FB         Facebook, Inc. Class A Common Stock              752,746,787,092             $264.28 +6.64   +2.58%
+FISV       Fiserv, Inc. Common Stock     80,127,652,678     $119.69                     +4.14   +3.58%
+FOX        Fox Corporation Class B Common Stock             23,054,807,387              $39.04  +2.33   +6.35%
+FOXA       Fox Corporation Class A Common Stock             24,383,529,636              $41.29  +2.20   +5.63%
+GILD       Gilead Sciences, Inc. Common Stock               81,201,049,741              $64.62  +1.39   +2.2%
+GOOG       Alphabet Inc. Class C Capital Stock              1,421,444,123,619           $2108.54        +59.45  +2.9%
+GOOGL      Alphabet Inc. Class A Common Stock               1,413,711,776,072           $2097.07        +63.14  +3.1%
+IDXX       IDEXX Laboratories, Inc. Common Stock            42,687,412,176              $499.70         +13.85  +2.85%
+ILMN       Illumina, Inc. Common Stock     58,192,215,000   $398.85                     -0.76           -0.19%
+INCY       Incyte Corp. Common Stock       17,644,639,069   $80.26                      +2.76           +3.56%
+INTC       Intel Corporation Common Stock  246,786,620,000  $60.74                      +2.41           +4.13%
+INTU       Intuit Inc. Common Stock 104,664,340,153         $382.21                     +5.88           +1.56%
+ISRG       Intuitive Surgical, Inc. Common Stock            83,976,702,244              $713.37         +4.20   +0.59%
+JD         JD.com, Inc. American Depositary Shares          140,449,853,740             $90.62          -0.15   -0.17%
+KDP        Keurig Dr Pepper Inc. Common Stock               44,371,137,086              $31.53          +0.65   +2.1%
+KHC        The Kraft Heinz Company Common Stock             46,297,202,024              $37.85          +0.64   +1.72%
+KLAC       KLA Corporation Common Stock   45,586,066,991    $295.87                     +8.25           +2.87%
+LRCX       Lam Research Corporation Common Stock            78,270,884,126              $547.70         +18.89  +3.57%
+LULU       lululemon athletica inc. Common Stock            38,220,328,316              $293.24         +8.10   +2.84%
+MAR        Marriott International Class A Common Stock      47,662,926,918              $146.92         +2.15   +1.49%
+MCHP       Microchip Technology Incorporated Common Stock   39,161,467,171              $145.44         +5.35   +3.82%
+MDLZ       Mondelez International, Inc. Class A Common Stock                            78,485,327,189  $55.58  +1.62   +3%
+MELI       MercadoLibre, Inc. Common Stock    73,320,467,424                            $1470.24        +11.60  +0.8%
+MNST       Monster Beverage Corporation       45,641,602,651                            $86.42          +1.74   +2.05%
+MRNA       Moderna, Inc. Common Stock         52,845,541,045                            $132.19         -0.11   -0.08%
+MRVL       Marvell Technology Group Ltd. Common Stock                                   27,886,418,000  $41.51  +1.415  +3.53%
+MSFT       Microsoft Corporation Common Stock   1,746,777,171,637                       $231.60         +4.87   +2.15%
+MTCH       Match Group, Inc. Common Stock       39,347,883,013                          $146.29         +2.63   +1.83%
+MU         Micron Technology, Inc. Common Stock 99,483,455,784                          $88.93          +4.60   +5.45%
+MXIM       Maxim Integrated Products, Inc. Common Stock                                 23,718,954,019  $88.49  +2.13   +2.47%
+NFLX       Netflix, Inc. Common Stock 228,706,683,828                                   $516.39         +5.10   +1%
+NTES       NetEase, Inc. American Depositary Shares                                     74,208,775,532  $108.26 +2.00   +1.88%
+NVDA       NVIDIA Corporation Common Stock   309,045,200,000                            $498.46         +3.65   +0.74%
+NXPI       NXP Semiconductors N.V. Common Stock                                         50,110,783,199  $180.90 +13.62  +8.14%
+OKTA       Okta, Inc. Class A Common Stock                                              27,959,495,069  $215.96 -10.26  -4.54%
+ORLY       O'Reilly Automotive, Inc. Common Stock                                       32,705,776,754  $465.85 +15.59  +3.46%
+PAYX       Paychex, Inc. Common Stock       33,221,342,828                              $92.12          +2.81   +3.15%
+PCAR       PACCAR Inc. Common Stock         32,664,101,603                              $94.15          +1.75   +1.89%
+PDD        Pinduoduo Inc. American Depositary Shares                                    192,312,485,661 $156.82 -1.58   -1%
+PEP        PepsiCo, Inc. Common Stock         183,529,337,512                           $133.03         +4.20   +3.26%
+PTON       Peloton Interactive, Inc. Class A Common Stock                               30,960,960,041  $105.13 +0.38   +0.36%
+PYPL       PayPal Holdings, Inc. Common Stock       279,969,565,428                     $239.05         -0.02   -0.01%
+QCOM       QUALCOMM Incorporated Common Stock       147,396,000,000                     $129.75         +1.95   +1.53%
+REGN       Regeneron Pharmaceuticals, Inc. Common Stock                                 49,448,870,621  $461.57 +12.19  +2.71%
+ROST       Ross Stores, Inc. Common Stock  40,326,670,729                               $113.13         +1.11   +0.99%
+SBUX       Starbucks Corporation Common Stock                                           123,851,960,000 $105.20 +0.31   +0.3%
+SGEN       Seagen Inc. Common Stock     27,056,910,010                                  $149.35         +3.90   +2.68%
+SIRI       Sirius XM Holdings Inc. Common Stock                                         24,384,475,998  $5.89   +0.10   +1.73%
+SNPS       Synopsys, Inc. Common Stock    34,710,606,304                                $227.80         -2.00   -0.87%
+SPLK       Splunk Inc. Common Stock       22,118,559,424                                $136.77         -2.70   -1.94%
+SWKS       Skyworks Solutions, Inc. Common Stock                                        28,600,258,948  $173.44 +6.23   +3.73%
+TCOM       Trip.com Group Limited American Depositary Shares                            23,568,591,627  $39.74  +0.68   +1.74%
+TEAM       Atlassian Corporation Plc Class A Ordinary Shares                            57,066,596,532  $228.21 +2.77   +1.23%
+TMUS       T-Mobile US, Inc. Common Stock  154,828,335,424                              $124.68         +6.07   +5.12%
+TSLA       Tesla, Inc. Common Stock 573,944,402,717                                     $597.95         -23.49  -3.78%
+TXN        Texas Instruments Incorporated Common Stock                                  154,544,969,737 $167.94 +4.69   +2.87%
+VRSK       Verisk Analytics, Inc. Common Stock   27,368,520,934                         $168.12         +6.47   +4%
+VRSN       VeriSign, Inc. Common Stock   21,914,333,085                                 $193.77         +3.47   +1.82%
+VRTX       Vertex Pharmaceuticals Incorporated Common Stock                             55,106,333,943  $211.98 +4.19   +2.02%
+WBA        Walgreens Boots Alliance, Inc. Common Stock                                  40,782,765,172  $47.20  +0.34   +0.73%
+WDAY       Workday, Inc. Class A Common Stock    57,572,158,000                         $237.02         +6.67   +2.9%
+XEL        Xcel Energy Inc. Common Stock         32,984,755,905                         $61.35          +2.43   +4.12%
+XLNX       Xilinx, Inc. Common Stock             29,420,976,150                         $119.95         +2.83   +2.42%
+ZM         Zoom Video Communications, Inc. Class A Common Stock                         98,492,241,929  $337.43 -5.66   -1.65%
